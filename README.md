@@ -110,6 +110,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/StarGeek06/StarGeek06/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/StarGeek06/StarGeek06/blob/main/snake.yml" alt="Snake animation" />
 
 ###
